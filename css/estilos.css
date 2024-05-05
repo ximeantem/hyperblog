@@ -38,3 +38,15 @@ font-size: 0.8cm;
 {
 padding: 1cm;
 }
+/* Estilos para el pie de página (footer) */
+footer {
+    background-color: #007bff; /* Color de fondo azul */
+    color: #fff; /* Color del texto en blanco */
+    padding: 20px; /* Espaciado interno para el contenido del footer */
+    text-align: center; /* Alineación del texto al centro */
+  }
+  
+  footer p {
+    margin: 0; /* Eliminar el margen predeterminado del párrafo */
+  }
+  
